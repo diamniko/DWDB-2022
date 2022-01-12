@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DWDB-2022.iml" filepath="$PROJECT_DIR$/.idea/modules/DWDB-2022.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DWDB-2022-build.iml" filepath="$PROJECT_DIR$/.idea/modules/DWDB-2022-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DWDM-2022.iml" filepath="$PROJECT_DIR$/.idea/modules/DWDM-2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project.DWDB-2022-build.iml" filepath="$PROJECT_DIR$/.idea/modules/project.DWDB-2022-build.iml" />
     </modules>
   </component>
 </project>
